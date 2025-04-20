@@ -1,4 +1,4 @@
-# Rod Cutting Simulation
+# Rod Cutting Simulation (HTML + Javascript)
 This project is a HTML and Javascript application that simulates the Rod Cutting Problem using Dynamic Programming, visualizing the optimal way to cut a rod to maximize profit.
 
 # Problem Statement
