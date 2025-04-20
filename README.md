@@ -1,5 +1,5 @@
 # Rod Cutting Simulation (HTML + Javascript)
-This project is a HTML and Javascript application that simulates the Rod Cutting Problem using Dynamic Programming, visualizing the optimal way to cut a rod to maximize profit.
+This project is a HTML + Javascript application that simulates the Rod Cutting Problem using Dynamic Programming, visualizing the optimal way to cut a rod to maximize profit.
 
 # Problem Statement
 Given a rod of length n and an array of prices that contains prices of all pieces smaller than n, determine the maximum value obtainable by cutting up the rod and selling the pieces.
