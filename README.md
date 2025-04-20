@@ -6,6 +6,7 @@ Given a rod of length n and an array of prices that contains prices of all piece
 
 # Input
 Input: User can enter space-separated prices for lengths 1 to n.
+
 Rod Length: User inputs total rod length to cut.
 
 # Output
